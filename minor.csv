@@ -1,0 +1,139 @@
+Origin,Destination,Distance(km),Flight Time(hr)
+Russia,US ,8885.66,9.74
+Russia,Canda,6644.16,7.28
+Russia,Japan,3628.8,3.98
+Russia,France,6220.82,6.82
+Russia,South Africa,12576.59,13.78
+Russia,UK,5613.55,6.15
+Russia,Brazil,14450.82,15.84
+Russia,Germany,5420.43,5.94
+Russia,Poland,4963.49,5.44
+Russia,Indonesia,6967.11,7.64
+Russia,Algeria,NAN,8.2
+Russia,Denmark,NAN,8.2
+Russia,Saudi Arabia,NAN,8.2
+Russia,Mexico,NAN,8.2
+Russia,Indonesia,NAN,8.2
+Russia,Iran,NAN,8.2
+Iran,US ,11657.33,12.78
+Iran,Canda,9987.24,10.94
+Iran,Japan,7515.16,8.24
+Iran,France,4595.46,5.04
+Iran,South Africa,7715.51,8.46
+Iran,UK,5052.97,5.54
+Iran,Brazil,12299.06,13.48
+Iran,Germany,4064.23,4.45
+Iran,Poland,3523.5,3.86
+Iran,Indonesia,7304.37,8
+Canada,US ,2261.43,2.48
+Canada,Canda,0,0
+Canada,Japan,8082.32,8.86
+Canada,France,6840.47,7.5
+Canada,South Africa,15183.27,16.64
+Canada,UK,5807.15,6.36
+Canada,Brazil,9304.08,10.2
+Canada,Germany,6750.39,7.4
+Canada,Poland,7004.82,7.68
+Canada,Indonesia,12885.7,14.12
+Canada,Algeria,NAN,8.2
+Canada,Denmark,NAN,8.2
+Canada,Saudi Arabia,NAN,8.2
+Canada,Mexico,NAN,8.2
+Canada,Indonesia,NAN,8.2
+Canada,Iran,NAN,8.2
+Canada,SouthAfrica,NAN,8.2
+China,US ,11646.7,12.76
+China,Canda,9385.41,10.29
+China,Japan,3046.61,8.2
+China,France,8021.61,8.2
+China,South Africa,11236.5,8.2
+China,UK,7779.19,8.2
+China,Brazil,16632.05,8.2
+China,Germany,7223.54,8.2
+China,Poland,6639.99,8.2
+China,Indonesia,4197.92,8.2
+China,Algeria,NAN,8.2
+China,Denmark,NAN,8.2
+China,Saudi Arabia,NAN,8.2
+China,Mexico,NAN,8.2
+China,Indonesia,NAN,8.2
+China,Iran,NAN,8.2
+China,SouthAfrica,NAN,8.2
+United States,US ,0,8.2
+United States,Canda,2261.43,8.2
+United States,Japan,10149.95,8.2
+United States,France,7665.22,8.2
+United States,South Africa,14398.08,8.2
+United States,UK,6830.07,8.2
+United States,Brazil,7316.57,8.2
+United States,Germany,7861.09,8.2
+United States,Poland,8279.33,8.2
+United States,Indonesia,14961.09,8.2
+United States,Algeria,NAN,8.2
+United States,Denmark,NAN,8.2
+United States,Saudi Arabia,NAN,8.2
+United States,Mexico,NAN,8.2
+United States,Indonesia,NAN,8.2
+United States,Iran,NAN,8.2
+United States,SouthAfrica,NAN,8.2
+Brazil,US ,7316.57,8.2
+Brazil,Canda,9304.08,8.2
+Brazil,Japan,17369.59,8.2
+Brazil,France,8624.88,8.2
+Brazil,South Africa,7776.76,8.2
+Brazil,UK,8966.34,8.2
+Brazil,Germany,9431.19,8.2
+Brazil,Poland,10004.63,8.2
+Brazil,Indonesia,17729.71,8.2
+Brazil,Paraguay,1231.77,8.2
+Brazil,French Guiana,2024.52,8.2
+Brazil,Argentina,2924.11,8.2
+Brazil,Trinidad and Tobago,2955.07,8.2
+Brazil,Venezuela,2809.53,8.2
+Brazil,Peru,2574.13,8.2
+Brazil,Guyana,2259.4,8.2
+Australia,US ,15183.75,8.2
+Australia,Canda,14150.94,8.2
+Australia,Japan,6851.99,8.2
+Australia,France,15158.38,8.2
+Australia,South Africa,10388.97,8.2
+Australia,UK,15205.31,8.2
+Australia,Brazil,15577.86,8.2
+Australia,Germany,14465.53,8.2
+Australia,Poland,13859.39,8.2
+Australia,Indonesia,3457.27,8.2
+Australia,Algeria,15276,8.2
+Australia,Denmark,14413.85,8.2
+Australia,Saudi Arabia,10992.48,8.2
+Australia,Mexico,14352.94,8.2
+Australia,Indonesia,3457.27,8.2
+Australia,Iran,10629.52,8.2
+India,US ,13576.02,14.88
+India,Canda,11468.56,12.57
+India,Japan,5959.02,6.53
+India,France,7368.55,8.08
+India,South Africa,8254.63,9.05
+India,UK,7662.28,8.4
+India,Brazil,14774.6,16.19
+India,Germany,6751.86,7.4
+India,Poland,6165.38,6.76
+India,Indonesia,4484.78,4.91
+India,Algeria,NAN,8.2
+India,Denmark,NAN,8.2
+India,Saudi Arabia,NAN,8.2
+India,Mexico,NAN,8.2
+India,Indonesia,NAN,8.2
+India,Iran,NAN,8.2
+India,SouthAfrica,8254.63,8.2
+Saudi Arabia,US ,12088.65,8.2
+Saudi Arabia,Canda,10717.6,8.2
+Saudi Arabia,Japan,8735.15,8.2
+Saudi Arabia,France,4546.09,8.2
+Saudi Arabia,South Africa,6497.74,8.2
+Saudi Arabia,UK,5266.36,8.2
+Saudi Arabia,Brazil,11339.62,8.2
+Saudi Arabia,Germany,4233.43,8.2
+Saudi Arabia,Poland,3816.24,8.2
+Saudi Arabia,Indonesia,7902.22,8.2
+Saudi Arabia,Iran,1269.47,8.2
+Saudi Arabia,SouthAfrica,6497.74,8.2
